@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20my%20page!&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <!--
 **yeonsik0710/yeonsik0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
