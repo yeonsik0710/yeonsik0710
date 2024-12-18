@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%10my%10page!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%my%page!&fontSize=90)
 
 <!--
 **yeonsik0710/yeonsik0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
