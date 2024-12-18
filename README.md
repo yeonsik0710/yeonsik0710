@@ -4,7 +4,7 @@
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## During undergraduate
-KAIST 제 2회 Get-Feel Camp - '차세대 항공우주산업 기술의 전자공학적인 접근 및 아이디어 제시'
+KAIST 주최 제 2회 Get-Feel Camp - 차세대 항공우주산업 기술의 전자공학적인 접근 및 아이디어 제시
 
   
 
