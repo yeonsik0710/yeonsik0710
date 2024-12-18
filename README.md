@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 <!--
 **yeonsik0710/yeonsik0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
